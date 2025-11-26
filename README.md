@@ -37,7 +37,7 @@
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://hundren.github.io/2016/02/14/hello-world/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://buymeacoffee.com/xiuerold" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hundren/hundren/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hundren/hundren/output/github-contribution-grid-snake.svg">
